@@ -1,13 +1,7 @@
 ![Banner Image Failed to Load :(](https://github.com/DevSkylix/Info/raw/main/SkylixBanner.png)
 SKYLIX | Bringing The World Together
 
-**Fun Facts!**
- - Skylix was actualy called ILLUX but renamed due to many conflics between the team, ILLUX also had its fair share of old names too, here are just a few of them!
-   - Axeri
-   - XENONMC
-   - MinePixel
-   - SkyFair
-   - SeaRaid
+
 
 <!--
 
