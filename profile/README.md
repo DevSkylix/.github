@@ -1,5 +1,5 @@
 ![Banner Image Failed to Load :(](https://github.com/DevSkylix/Info/raw/main/SkylixBanner.png)
-SKYLIX | Bringing The World Together
+<div style="text-align: center">Skylix | Bringing the world closer together</div>
 
 
 
