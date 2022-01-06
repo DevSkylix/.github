@@ -1,5 +1,9 @@
 ![Banner Image Failed to Load :(](https://github.com/DevSkylix/Info/raw/main/SkylixBanner.png)
-<div style="text-align: center">Skylix | Bringing the world closer together</div>
+<h2 style="text-align: center">Skylix</h2>
+<p>Slogan soon</p>
+<h2>Projects</h2>
+<h3>- Chat</h3>
+<h3>- LuxJS</h3>
 
 
 
