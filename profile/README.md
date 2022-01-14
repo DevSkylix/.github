@@ -1,4 +1,7 @@
-![Banner Image Failed to Load :(](https://raw.githubusercontent.com/SkylixGH/Info/main/logos/Logo%20Icon%20Auto.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SkylixGH/Info/main/logos/Logo%20Icon%20Auto.svg" alt="" />
+</div>
+
 <h2 style="text-align: center">Skylix</h2>
 <p align="center">Creating binds between worlds!</p>
 
