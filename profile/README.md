@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SkylixGH/Info/main/logos/Logo%20Icon%20Auto.svg" alt="" />
+  <img width="200px" src="https://raw.githubusercontent.com/SkylixGH/Info/main/logos/Logo%20Icon%20Auto.svg" alt="" />
 </div>
 
-<h2 style="text-align: center">Skylix</h2>
-<p align="center">Creating binds between worlds!</p>
-
-
+<div align="center">
+  <a href="https://github.com/SkylixGH/NitroJS" target="_blank">NitroJS</a> •
+  <a href="https://github.com/SkylixGH/LuxJS" target="_blank">LuxJS (Deprecated)</a>
+</div>
 
 <!--
 
