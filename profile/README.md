@@ -7,6 +7,8 @@
   <a href="https://github.com/SkylixGH/LuxJS" target="_blank">LuxJS (Deprecated)</a>
 </div>
 
+<h1 align="center">S K Y L I X</h1>
+
 <!--
 
 **Here are some ideas to get you started:**
