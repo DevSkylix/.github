@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/SkylixGH/NitroJS" target="_blank">NitroJS</a> •
+  <a href="https://github.com/SkylixGH/Nexo" target="_blank">Nexo</a> •
+  <a href="https://github.com/SkylixGH/NitroJS" target="_blank">NitroJS (Deprecated)</a> •
   <a href="https://github.com/SkylixGH/LuxJS" target="_blank">LuxJS (Deprecated)</a>
 </div>
 
