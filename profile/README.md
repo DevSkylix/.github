@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./banner.svg" alt="" />
+  <img width="100%" src="https://raw.githubusercontent.com/SkylixGH/.github/main/profile/banner.svg" alt="" />
 </div>
 
 <!--
