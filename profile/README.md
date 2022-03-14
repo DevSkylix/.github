@@ -1,14 +1,6 @@
 <div align="center">
-  <img width="200px" src="https://raw.githubusercontent.com/SkylixGH/Info/main/logos/Logo%20Icon%20Auto.svg" alt="" />
+  <img width="200px" src="./banner.svg" alt="" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/SkylixGH/Nexo" target="_blank">Nexo</a> •
-  <a href="https://github.com/SkylixGH/NitroJS" target="_blank">NitroJS (Deprecated)</a> •
-  <a href="https://github.com/SkylixGH/LuxJS" target="_blank">LuxJS (Deprecated)</a>
-</div>
-
-<h1 align="center">S K Y L I X</h1>
 
 <!--
 
