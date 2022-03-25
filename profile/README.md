@@ -8,6 +8,18 @@
 
 <p align="center">Changing the world of Open Source software!</p>
 
+## Welcome
+Skylix is an open source development team!
+
+## Our Projects
+ - Skylix : The chat platform that will change the industry forever!
+ - HyperJS : A NodeJS framework that supports many other programming languages, at it's core is an extensible build system. Create the next generation desktop, mobile, web, cli, and server apps with one codebase!
+ - Duality : A MineCraft spigot server API for building high complexity server plugins in NodeJS.
+
+## Community
+ - Discord : [Skylix Discord](https://discord.gg/b9vcR6evgG)
+ - Forums : [Skylix Forums)(https://skylix.net/forums/skylix)
+
 <!--
 
 **Here are some ideas to get you started:**
