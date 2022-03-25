@@ -1,9 +1,13 @@
 <br />
+<br />
+<br />
 
 <div align="center">
   <img width="350" src="https://raw.githubusercontent.com/SkylixGH/Info/main/logos/Skylix%20Logo%20Text%20Dark.svg" alt="" />
 </div>
 
+<br />
+<br />
 <br />
 
 <p align="center">Changing the world of Open Source software!</p>
