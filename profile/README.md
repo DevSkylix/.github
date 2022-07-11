@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-  <img width="250" src="https://raw.githubusercontent.com/SkylixGH/Info/8a2ad50fcb8a04c367edd6e011cb94c004be9def/logos/Logo%20Icon%20Dark.svg" alt="" />
+  <img width="250" src="https://raw.githubusercontent.com/SkylixGH/Info/main/logos/LogoDark.svg" alt="" />
 </div>
 
 <br />
