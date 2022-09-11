@@ -17,5 +17,5 @@ Skylix is an open source development team!
 
 ## Community
  - Website: [Skylix.net](https://skylix.net)
- - Discord : [Skylix Discord](https://discord.gg/b9vcR6evgG)
+ - Discord : [Skylix Discord](https://discord.gg/wtYw7GRfNF)
  - Forums : [Skylix Forums](https://forums.skylix.net/skylix)
