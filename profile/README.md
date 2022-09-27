@@ -1,6 +1,3 @@
-<br />
-<br />
-<br />
 
 # Skylix is no more! :(
 For now we are taking our past knowlege and experiences to build the next big thing! or things!!
