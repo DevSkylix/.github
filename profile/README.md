@@ -5,6 +5,7 @@ The new company will feature Electronic devices, software, devops tools, music p
 
  - If your interested, shoot me an email at xfaonae@protonmail.com
  - Or: Add me on Discord! `XFaon#8699`
+ - New org is https://github.com/Elexite77x
 
 <br />
 
